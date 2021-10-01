@@ -2,8 +2,8 @@
 /**
  *  Descripción de un estudiante
  * 
- * @author - Marcelino Penide Durán
- * @version Version1
+ * @author - Marcelino Penide Durán segndo
+ * @version Version2
  */
 public class Estudiante
 {
