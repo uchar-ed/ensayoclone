@@ -2,7 +2,7 @@
 /**
  *  Descripción de un estudiante
  * 
- * @author - Marcelino Penide 
+ * @author - Marcelino Penide Durán
  * @version Version1
  */
 public class Estudiante
