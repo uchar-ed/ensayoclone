@@ -2,7 +2,7 @@
 /**
  *  Descripción de un estudiante
  * 
- * @author - Marce
+ * @author - Marcelino Penide
  * @version Version2
  */
 public class Estudiante
